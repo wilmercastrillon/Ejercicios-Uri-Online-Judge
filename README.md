@@ -1,2 +1,2 @@
 # Ejercicios-Uri-Online-Judge
-ejercicios del Uri en c++, c y java
+ejercicios del juez Uri en c++, c y java
